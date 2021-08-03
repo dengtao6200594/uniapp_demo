@@ -1,7 +1,7 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/index",
+			"path": "pages/main/index",
 			"style": {}
 		}, {
 			"path": "pages/serch/serch",
@@ -31,7 +31,7 @@
 		"borderStyle": "black",
 		"backgroundColor": "#FFFFFF",
 		"list": [{
-				"pagePath": "pages/index/index",
+				"pagePath": "pages/main/index",
 				"text": "首页",
 				"iconPath":"static/tabBar/任务.png",
 				"selectedIconPath":"static/tabBar/订单数.png"
